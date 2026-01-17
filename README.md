@@ -1,5 +1,7 @@
 Текущая версия приложения 5.7
+
 ![Screen](https://github.com/mysoc126-svg/ZCreator/blob/main/Screen.bmp)
+
 Данная утилита предназначена для сборки (и разборки) ромов игр в формат ZMD/ZFC/ZSF/ZGB/ZPC/ZFB для игровых приставок:
  ZMD (сега или денди)
  ZFC (денди)
