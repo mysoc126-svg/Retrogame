@@ -32,7 +32,7 @@
 Технически форматы ZMD/ZFC/ZSF/ZGB/ZPC/ZFB между собой совместимы. То есть, допустимо, например, ZFC файл переименовать в ZMD.
 
 ### PBitmap_AC
-(Текущая версия приложения 2.1)
+(Текущая версия приложения 2.2)
 
 ![Screen](https://github.com/mysoc126-svg/ZCreator/blob/main/Pbitmap.png)
 
