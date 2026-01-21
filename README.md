@@ -6,7 +6,7 @@
 - Прочие... (с аналогичной прошивкой)
 
 ### ZCreator
-(Текущая версия приложения 5.8)
+(Текущая версия приложения 5.9)
 
 ![Screen](https://github.com/mysoc126-svg/ZCreator/blob/main/ZCreator.png)
 
